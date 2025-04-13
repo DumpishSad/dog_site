@@ -59,5 +59,5 @@ http://localhost:8000/
 
 ##  Пример использования
 -Добавление породы/собаки
-!(images/create.jpg)
+![](images/create.jpg)
   
