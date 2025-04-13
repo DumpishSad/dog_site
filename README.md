@@ -35,8 +35,8 @@ cp .env.example .env
 ```bash
 docker-compose up --build
 ```
-Сервис будет доступен по адресу:
+- Сервис будет доступен по адресу:
 ```bash
-[docker-compose up --build](http://localhost:8000/)
+http://localhost:8000/
 ```
 
