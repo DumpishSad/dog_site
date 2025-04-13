@@ -23,3 +23,15 @@ DogSite — это API для управления записями о соба�
 git clone https://github.com/your-username/dogsite.git
 cd dogsite
 ```
+
+### 2. Создать .env файл
+
+```bash
+cp .env.example .env
+```
+
+### 3. Собрать и запустить контейнеры
+
+```bash
+docker-compose up --build
+```
